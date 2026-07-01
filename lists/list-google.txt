@@ -18,3 +18,4 @@ ytimg.com
 ytimg.l.google.com
 play.google.com
 google.ru
+identitytoolkit.googleapis.com
